@@ -1,8 +1,8 @@
 # vis4good
-A flexible learning toolkit for running Data visualisation / journalism / campaining projects with students.
+A flexible learning toolkit for running Data visualisation / journalism / campaigning projects with students.
 
 ## Aim
-To empower teenagers to effect change in their communities using data. Developing skills around data and actictivisim. The outcomes that will benift their communities. 
+Empowering teenagers to effect change in their communities using data. Developing accredit-able and curriculum relevant skills around data, digital making and activism. The outcomes should be focused on benefit their communities. 
 
 ## Objectives
 Build some thing real and impactful every time.
